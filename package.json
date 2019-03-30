@@ -1,0 +1,19 @@
+{
+  "name": "noserver-logs",
+  "version": "0.0.1",
+  "description": "用于NoServer控制台等服务的日志组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinecraftNoServer/noserver-logs.git"
+  },
+  "author": "richbxwang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MinecraftNoServer/noserver-logs/issues"
+  },
+  "homepage": "https://github.com/MinecraftNoServer/noserver-logs#readme"
+}
